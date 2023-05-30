@@ -1,0 +1,5 @@
+Express()
+Mongoose.
+Dotenv
+Cors
+nodemon
